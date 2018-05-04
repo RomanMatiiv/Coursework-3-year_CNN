@@ -3,4 +3,4 @@
 <b>Цель:</b> создать прототип системы, которая вместо карт лояльности в магазинах сможет использовать лица (фото сделаннные непосредственно в магазине).
 
 - <a href="https://github.com/RomanMatiiv/Coursework-3-year_CNN/tree/master/DS_part"> Техническая часть</a>
-- <a href="https://github.com/RomanMatiiv/Coursework-3-year_CNN/blob/master/Reporting_part/Курсач_отчет/Отчет%20main.docx">Отчет по курсовой</a>
+- <a href="https://github.com/RomanMatiiv/Coursework-3-year_CNN/blob/master/Reporting_part/Курсач_отчет/Матиив%20РА%20(153049)%20%5BПИ3-1%5D%20Система%20искусственного%20интеллекта%20на%20базе%20нейронных%20сетей%20для%20работы%20в%20составе%20системы%20лояльности%20покупателей.docx">Отчет по курсовой</a>
